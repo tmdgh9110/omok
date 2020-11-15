@@ -1,1 +1,2 @@
-# omok
+# OMOK
+Using Reinforcement learning
